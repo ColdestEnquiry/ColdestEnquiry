@@ -5,6 +5,3 @@
 - 📫 How to reach me: ayaanhassanpk01@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: When I'm not diving into code or security protocols, I'm usually commanding the floor as Vice President of my debating union, or unwinding on my PS5 with some MW3 and Fortnite.
-ColdestEnquiry/ColdestEnquiry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
